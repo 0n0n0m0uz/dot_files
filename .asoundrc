@@ -1,0 +1,11 @@
+pcm.hwDSD {
+    type hw
+    card 3
+    device 0
+}
+
+ctl.hwDSDctl {
+    type hw
+    card 3
+    device 0
+}
